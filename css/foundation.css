@@ -3634,7 +3634,6 @@ table.hover tr:nth-of-type(even):hover {
         color: white;
         font-size: 36;
         background-image: url(../assets/bg.jpg);
-        height: 66.8 %;
     }
     .jordan button {
         color: gold;
@@ -3655,7 +3654,6 @@ table.hover tr:nth-of-type(even):hover {
     color: white;
     font-size: 44;
     background-color: #524b58;
-    height: 16%;
 }
 .large-offset-2 {
     margin-left: 66.66667%;
