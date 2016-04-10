@@ -6,17 +6,25 @@
     color: gold;
     padding: 0px;
 }
-body {}
+body {
+    background-color: black;
+}
 .face {
     width: 641px;
     background-image: url(../assets/bg.jpg);
     height: 680px;
     color: white;
 }
-.floating {}
+.floating img {
+    left: 0px;
+    top: 0px;
+    z-index: +1;
+}
+
+}
 .footer {
     background-color: #565A69;
 }
-.button {
-    button-radius: 25px;
+.button-radius: 25px;
+
 }
