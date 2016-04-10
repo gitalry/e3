@@ -1,8 +1,22 @@
 /* the top of the page*/
 
 .header {
+    width: 641px;
     background-color: #524B58;
     color: gold;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding: 0px;
+}
+body {}
+.face {
+    width: 641px;
+    background-image: url(../assets/bg.jpg);
+    height: 680px;
+    color: white;
+}
+.floating {}
+.footer {
+    background-color: #565A69;
+}
+.button {
+    button-radius: 25px;
 }
