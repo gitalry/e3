@@ -1,4 +1,3 @@
 # e3
-
-Is a psd2html build.
-.....................with foundation zurb.
+A "Jordan" website.(a social media page)
+Is a psd2html build with foundation zurb.
