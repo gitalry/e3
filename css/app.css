@@ -22,6 +22,7 @@ body {
     z-index: 3;
 }
 .floating {
+    height: 200px;
     display: inline;
 }
 .large-2 {
@@ -36,7 +37,8 @@ body {
     padding-top: 100px;
     float: right;
 }
-.following{ float: right
+.following{ float: right;
+    padding-left: 70px;
 }
 .followers{
 }
