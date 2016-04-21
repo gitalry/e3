@@ -22,7 +22,7 @@ body {
     z-index: 3;
 }
 .floating {
-    height: 200px;
+
     display: inline;
 }
 .large-2 {
@@ -32,6 +32,14 @@ body {
 .large-2 {
     padding-top: 50px;
     float: left;
+}
+.leftie{
+    padding-top:100px;
+        float: left;
+}
+.katikati{
+
+position:
 }
 .right {
     padding-top: 100px;
