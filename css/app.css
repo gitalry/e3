@@ -10,6 +10,9 @@ body {
    max-width:641px;
     background-color: black;
 }
+.free{
+    height: 20%
+}
 .face {
 
     background-image: url(../assets/bg.jpg);
@@ -22,7 +25,7 @@ body {
     z-index: 3;
 }
 .floating {
-
+height: 200px;
     display: inline;
 }
 .large-2 {
@@ -34,15 +37,12 @@ body {
     float: left;
 }
 .leftie{
-    padding-top:100px;
+   padding-top: 200px:
         float: left;
-}
-.katikati{
 
-position:
 }
-.right {
-    padding-top: 100px;
+.rightie {
+
     float: right;
 }
 .following{ float: right;
